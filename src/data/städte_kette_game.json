@@ -1,0 +1,169 @@
+{
+    "A": [
+        "Aachen",
+        "Augsburg",
+        "Arnhem",
+        "Amsterdam",
+        "Antwerpen"
+    ],
+    "B": [
+        "Berlin",
+        "Bremen",
+        "Braunschweig",
+        "Bonn",
+        "Bielefeld",
+        "Brüssel",
+        "Budapest",
+        "Bergen"
+    ],
+    "C": [
+        "Chemnitz",
+        "Cottbus",
+        "Celle",
+        "Coburg",
+        "Copenhagen"
+    ],
+    "D": [
+        "Dresden",
+        "Dortmund",
+        "Duisburg",
+        "Düsseldorf",
+        "Darmstadt",
+        "Danzig"
+    ],
+    "E": [
+        "Essen",
+        "Erfurt",
+        "Erlangen",
+        "Eindhoven",
+        "Edinburgh"
+    ],
+    "F": [
+        "Frankfurt",
+        "Freiburg",
+        "Flensburg",
+        "Florenz",
+        "Faro"
+    ],
+    "G": [
+        "Göttingen",
+        "Gelsenkirchen",
+        "Gera",
+        "Genf",
+        "Graz"
+    ],
+    "H": [
+        "Hamburg",
+        "Hannover",
+        "Heidelberg",
+        "Hagen",
+        "Helsinki"
+    ],
+    "I": [
+        "Ingolstadt",
+        "Innsbruck",
+        "Istanbul"
+    ],
+    "J": [
+        "Jena",
+        "Jerusalem"
+    ],
+    "K": [
+        "Köln",
+        "Kiel",
+        "Kassel",
+        "Karlsruhe",
+        "Koblenz",
+        "Krakau"
+    ],
+    "L": [
+        "Leipzig",
+        "Lübeck",
+        "Ludwigshafen",
+        "London",
+        "Lissabon",
+        "Lyon"
+    ],
+    "M": [
+        "München",
+        "Mainz",
+        "Mannheim",
+        "Magdeburg",
+        "Mailand",
+        "Madrid"
+    ],
+    "N": [
+        "Nürnberg",
+        "Neuss",
+        "Nordhorn",
+        "Neapel",
+        "Nizza"
+    ],
+    "O": [
+        "Osnabrück",
+        "Oldenburg",
+        "Offenbach",
+        "Oslo",
+        "Oxford"
+    ],
+    "P": [
+        "Potsdam",
+        "Paderborn",
+        "Passau",
+        "Paris",
+        "Prag"
+    ],
+    "Q": [
+        "Quickborn",
+        "Quedlinburg"
+    ],
+    "R": [
+        "Rostock",
+        "Regensburg",
+        "Reutlingen",
+        "Rom",
+        "Riga"
+    ],
+    "S": [
+        "Stuttgart",
+        "Saarbrücken",
+        "Solingen",
+        "Salzburg",
+        "Stockholm"
+    ],
+    "T": [
+        "Trier",
+        "Tübingen",
+        "Turin",
+        "Tallinn"
+    ],
+    "U": [
+        "Ulm",
+        "Unna",
+        "Utrecht"
+    ],
+    "V": [
+        "Villingen",
+        "Venedig",
+        "Valencia",
+        "Vilnius"
+    ],
+    "W": [
+        "Wuppertal",
+        "Wiesbaden",
+        "Würzburg",
+        "Warschau",
+        "Wien"
+    ],
+    "X": [
+        "Xanten"
+    ],
+    "Y": [
+        "Ypres"
+    ],
+    "Z": [
+        "Zwickau",
+        "Zürich",
+        "Zagreb"
+    ]
+}
