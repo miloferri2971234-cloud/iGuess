@@ -1,4 +1,3 @@
 # iGuess
-Python based game
 
-© 2026 Simon Rode and Milo Ferri. All rights served
+© 2026 Milo Ferri and Simon Rode. All rights reserved.
